@@ -63,7 +63,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#4e4e4e;
   margin:0 0 20px;
 }
 
@@ -166,19 +166,19 @@ header {
 
 header ul {
   list-style:none;
-  height:20px;
+  height:25px;
   padding:0;
-  background: #f4f4f4;
+  background: #C5FF4C;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:150px;
+  width:180px;
 }
 
 header li {
-  width:49px;
+  width:59px;
   float:left;
   border-right:1px solid #e0e0e0;
-  height:20px;
+  height:25px;
 }
 
 header li:first-child a {
@@ -214,7 +214,7 @@ strong {
 
 header ul li + li + li {
   border-right:none;
-  width:89px;
+  width:59px;
 }
 
 header ul a strong {
@@ -241,7 +241,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   bottom:50px;
