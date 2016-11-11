@@ -224,7 +224,7 @@ header ul a strong {
 }
 
 section {
-  width:400px;
+  width:600px;
   float:right;
   padding-bottom:40px;
 }
@@ -241,7 +241,7 @@ hr {
 }
 
 footer {
-  width:400px;
+  width:600px;
   float:left;
   position:fixed;
   bottom:50px;
