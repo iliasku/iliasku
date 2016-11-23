@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/iliasku
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iliasku.tech
+  * I am iliasku (https://keybase.io/iliasku) on keybase.
+  * I have a public key with fingerprint D523 CBDD 0E47 DDF7 9D5A  BFD0 5BFE B7E2 9312 724E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010178e40146752201de92108fc1f273c502140542a69bcbdc8a5077d74efc4862020a",
+            "fingerprint": "d523cbdd0e47ddf79d5abfd05bfeb7e29312724e",
+            "host": "keybase.io",
+            "key_id": "5bfeb7e29312724e",
+            "kid": "010178e40146752201de92108fc1f273c502140542a69bcbdc8a5077d74efc4862020a",
+            "uid": "d1447047474e26726b23599d860b9719",
+            "username": "iliasku"
+        },
+        "service": {
+            "hostname": "iliasku.tech",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479912818,
+    "expire_in": 157680000,
+    "prev": "1d62ebc32a780c28aa5ddc7378e92d10774c6968e9d130943012f65e5c544f77",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJbSBVBGMfPKbscKVHoQokWW9FFq5nZy+werSiLMky6Ukp03N2Z1UU9
+57S7RxM7FYQPdjMtOpRlF7raPYjACrJSpDsUikUPpRUVhWL00AWalXoIemzmYfi+
++f9/830fc3f4QE+89/vNrtTM2U7Ue785FvGsEc9blZwWIhWcv5Irpv0HLSHUdgLF
+JuH8HIAAYpkKAAoSFhECkFAFQSAbOjQQ5nURICgAUUCqpGi6RnRZFQHGBAvU0AVZ
+QgABlUvnDDNYSK2wZQYdhiUi4pmYACpgQgysEFHVDAJEzaAapkjhIcJIoMxYFLJd
+BytOU206wwyxHAsC/eX9Q/+f64704wgUBAwEzDZFEkaShnhRUYgsAU3BUHGFNrWC
+aillarPEVO3iCBdN51iyzNSpO1e3kb8FMxyqFzFr2Ao5IT1Uwm6KHCds+12nUxF2
+peVUC/yGBDQzSNgYmaOMWrYZCnJ+yJS6Y7pUKGBFgUiGcjpHN4RNiwZMVyFiSQZs
+ue/QMoaEREJU03mkYhnoSFZVkRAd82xeCiKQTUHQJUViEYE8UAQeQGRIIhV1URAM
+jDm3rfXBEGMzqKMWMqZtFgZVJ2JRLnr71to4jzfeM3jQAPd/eeJ9iX9+3YWfQz31
+j2Djy+SrSc9WXZ+lND7PSmrJ/XD07Mljm/yp29TLObEps5rbHlTVqht904esvgHf
+L1MOzY/jC7rz9ifULU1rn3C99/GkvsmLU7YPvJObPG9udEdwy8dP40dmZYyqalph
+JSx/0J5Rs/XMKKPiVLQDGJtbJy5Y8SPTHLMXf2v/vKS5Y5Gz8tqp0trNtT1fRvf5
+9r3xJvnLV0/a/fXtQRq73dJ5ZY+3OzshP6fVyG7befHFgdyW0zUN3mhv3rlXPdlX
+7cS1+cPG3ZvzcF3XiczEhKdNQyuO+6rjpx1+0hDrfHYuEr40tvVJef2R5YM9K+us
+d2r1iNO7Zqa9Xjh1ZkFjWtbTvFhKfvUvag04kA==
+=Zm9c
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iliasku
+
+==================================================================
